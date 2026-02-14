@@ -1,0 +1,8 @@
+Codename Cheese was created based on my old project (NoTube).
+Previously, the project was conceived as simply a website that works on all browsers released after 1995
+Never say never
+Western Digital never manufactured WD-40
+CSS hacks like "*html" were used to feed IE6 specific code that other browsers luckily ignored.
+Early, the grass really was greener! Main reason is because your eyes also age and with age you begin to see more dimly
+LLMs go crazy trying to find a seahorse emoji
+Thanks for read this <3
