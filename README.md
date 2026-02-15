@@ -9,19 +9,9 @@
       "duration_hours": 1.5
     },
     {
-      "time_range": "01:30 - 08:30",
+      "time_range": "01:30 - 19:00",
       "status": "light_on",
-      "duration_hours": 7
-    },
-    {
-      "time_range": "08:30 - 12:00",
-      "status": "light_off",
-      "duration_hours": 3.5
-    },
-    {
-      "time_range": "12:00 - 19:00",
-      "status": "light_on",
-      "duration_hours": 7
+      "duration_hours": 17.5
     },
     {
       "time_range": "19:00 - 22:30",
@@ -34,7 +24,7 @@
       "duration_hours": 1.5
     }
   ],
-  "last_updated": "22:13 14.02.2026"
+  "last_updated": "20:16 15.02.2026"
 }
 
 ```
