@@ -1,34 +1,39 @@
 ```json
 {
   "group": "5.2",
-  "day": "Monday",
+  "day": "Tuesday",
   "schedule": [
     {
-      "time_range": "00:00 - 05:30",
+      "time_range": "00:00 - 02:30",
       "status": "light_on",
-      "duration_hours": 5.5
+      "duration_hours": 2.5
     },
     {
-      "time_range": "05:30 - 09:00",
+      "time_range": "02:30 - 06:00",
       "status": "light_off",
       "duration_hours": 3.5
     },
     {
-      "time_range": "09:00 - 16:00",
+      "time_range": "06:00 - 13:00",
       "status": "light_on",
       "duration_hours": 7
     },
     {
-      "time_range": "16:00 - 23:00",
+      "time_range": "13:00 - 20:00",
       "status": "light_off",
       "duration_hours": 7
     },
     {
-      "time_range": "23:00 - 00:00",
+      "time_range": "20:00 - 23:30",
       "status": "light_on",
-      "duration_hours": 1
+      "duration_hours": 3.5
+    },
+    {
+      "time_range": "23:30 - 00:00",
+      "status": "light_off",
+      "duration_hours": 0.5
     }
   ],
-  "last_updated": "16.02.2025 16:21"
+  "last_updated": "2026-02-16 22:07:00"
 }
 ```
