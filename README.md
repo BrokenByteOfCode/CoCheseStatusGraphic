@@ -9,26 +9,26 @@
       "duration_hours": 5.5
     },
     {
-      "time_range": "05:30 - 12:30",
+      "time_range": "05:30 - 09:00",
+      "status": "light_off",
+      "duration_hours": 3.5
+    },
+    {
+      "time_range": "09:00 - 16:00",
+      "status": "light_on",
+      "duration_hours": 7
+    },
+    {
+      "time_range": "16:00 - 23:00",
       "status": "light_off",
       "duration_hours": 7
     },
     {
-      "time_range": "12:30 - 16:00",
+      "time_range": "23:00 - 00:00",
       "status": "light_on",
-      "duration_hours": 3.5
-    },
-    {
-      "time_range": "16:00 - 22:00",
-      "status": "light_off",
-      "duration_hours": 6
-    },
-    {
-      "time_range": "22:00 - 00:00",
-      "status": "light_on",
-      "duration_hours": 2
+      "duration_hours": 1
     }
   ],
-  "last_updated": "16.02.2026 09:01"
+  "last_updated": "16.02.2025 16:21"
 }
 ```
