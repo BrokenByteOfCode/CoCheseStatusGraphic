@@ -1,34 +1,40 @@
 ```json
 {
   "group": "5.2",
-  "day": "Thursday",
+  "day": "Sunday",
   "schedule": [
     {
-      "time_range": "00:00 - 03:30",
+      "time_range": "00:00 - 01:30",
       "status": "light_off",
-      "duration_hours": 3.5
+      "duration_hours": 1.5
     },
     {
-      "time_range": "03:30 - 07:00",
-      "status": "light_on",
-      "duration_hours": 3.5
-    },
-    {
-      "time_range": "07:00 - 10:30",
-      "status": "light_off",
-      "duration_hours": 3.5
-    },
-    {
-      "time_range": "10:30 - 17:30",
+      "time_range": "01:30 - 08:30",
       "status": "light_on",
       "duration_hours": 7
     },
     {
-      "time_range": "17:30 - 00:00",
+      "time_range": "08:30 - 12:00",
       "status": "light_off",
-      "duration_hours": 6.5
+      "duration_hours": 3.5
+    },
+    {
+      "time_range": "12:00 - 19:00",
+      "status": "light_on",
+      "duration_hours": 7
+    },
+    {
+      "time_range": "19:00 - 22:30",
+      "status": "light_off",
+      "duration_hours": 3.5
+    },
+    {
+      "time_range": "22:30 - 00:00",
+      "status": "light_on",
+      "duration_hours": 1.5
     }
   ],
-  "last_updated": "2026-02-18T22:23:00"
+  "last_updated": "2026-02-21T20:11:00"
 }
+
 ```
